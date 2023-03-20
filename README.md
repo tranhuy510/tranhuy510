@@ -4,7 +4,7 @@
 
 <h2 align="center">🌐 Socials 🌐</h2>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100025165838225) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/huy-tr%E1%BA%A7n-quang-a1b12a26b/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100025165838225) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huy-tr%E1%BA%A7n-quang-a1b12a26b/)
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
